@@ -2,7 +2,7 @@
 
 ## File
 ### General Rules
-- File namesshould be in lower snake case
+- File names should be in lower snake case
 - The file should be named in the form "identifier.entity.json"
   - Exception: If you are overiding a default file, replace the idenfier with a more suitable name
   
@@ -28,15 +28,16 @@
 - Component Groups should be in the orders: Statics, States, Functions
 
 ### Types
-- Functional
-  - Functional Component Groups are added for a one time action E.G Spawn another entity
-  - They should be in the form "namespace:func_X"
-- State
-  - State Component Groups are added for changing the behaviours of an entity E.G Chase player
-  - They should be in the form "namespace:state_X"
 - Static
   - Static Component Groups are added when an entity is spawned E.G A Variant
   - They should be in the form "namespace:static_X"
+- State
+  - State Component Groups are added for changing the behaviours of an entity E.G Chase player
+  - They should be in the form "namespace:state_X"
+- Function
+  - Functional Component Groups are added for a one time action E.G Spawn another entity
+  - They should be in the form "namespace:func_X"
+
   
 ## Events
 ### General Rules
