@@ -3,7 +3,7 @@
 ## File
 ### General Rules
 - File names should be in lower snake case
-- The file should be named in the form "identifier.entity.json"
+- The file should be named in the form "identifier.b.json"
   - Exception: If you are overiding a default file, replace the idenfier with a more suitable name
   
 ### Types
