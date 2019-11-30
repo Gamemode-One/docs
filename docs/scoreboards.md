@@ -6,9 +6,8 @@
     - E.G n5 is 5
 
 ## Objectives
-- Objective names should be lower snake case
-- It is preferred (but not necessary) to name objectives in the format "x_y"
-  - Where x is the general area of the project the scoreboard is relating to
-  - Where y is more specifically what the scoreboard is storing
+- It is preferred (but not necessary) to name objectives in the form "x_y"
+  - X is the general aspect of the project the scoreboard is relating to
+  - Y is more specifically what the scoreboard is storing
   - E.G spell_id, spell_cooldown etc
 - If an objective is used to temporally store data for an operation, it should be suffixed with a "_tmp"
