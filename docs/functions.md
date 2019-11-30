@@ -19,7 +19,7 @@
 - controller.mcfunction
   - This is the primary controller of the module
   - It is a looping function that controls the aspects of each module
-  - It is often called within the main.mcfunction
+  - It is often called within main.mcfunction
   - It often calls other controllers within the module
 - reset.mcfunction
   - This should reset each aspect of the module
@@ -42,7 +42,7 @@
   - These can be called relative to an entity
   - File names are preffixed with "on_"
 - Loops
-  - Loops are looping functions which are called while certain criteria are met, or for a period of time
+  - Loops are looping functions which are called while certain criteria are met, or for a fixed period of time
   - These are similar to events
   - File names are preffixed with "while_"
 - Other
@@ -50,10 +50,8 @@
   - They don't have strict naming rules, just have a descriptive name
  
  ## Misc
-- Naming
-  - Names should be in lower snake case
-  - They do not require a namespace
+- Functions do not require a namespace
 - If you execute a function relative to an entity, you can use @s within the function to refer to the entity
   - This can be a very powerful way to make your functions dynamic so use it to your advantage!
 - It is good practise not to include the name of the module within the names of files in a module
-  - It is a lot cleaner to write "/function region/display_controller" vs "/function region/region_display_controller"
+  - E.G It is a lot cleaner to write "/function region/display_controller" vs "/function region/region_display_controller"
