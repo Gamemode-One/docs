@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/tools/'
-next: '/docs/bp/animations-and-controllers/'
+prev: '/tools/'
+next: '/bp/animations-and-controllers/'
 ---
 
 # Misc

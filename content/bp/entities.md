@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/general/animations-and-controllers/'
-next: '/docs/bp/functions/'
+prev: '/general/animations-and-controllers/'
+next: '/bp/functions/'
 ---
 
 # Entities

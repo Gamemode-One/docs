@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/bp/scoreboards/'
+prev: '/bp/scoreboards/'
 ---
 
 # Tags

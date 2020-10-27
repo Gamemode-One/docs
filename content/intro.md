@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/tools/'
+next: '/tools/'
 ---
 
 # Introduction

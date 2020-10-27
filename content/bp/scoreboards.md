@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/bp/functions/'
-next: '/docs/bp/tags/'
+prev: '/bp/functions/'
+next: '/bp/tags/'
 ---
 
 # Scoreboards

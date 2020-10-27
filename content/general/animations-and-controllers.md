@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/bp/entities/'
-prev: '/docs/misc/'
+next: '/bp/entities/'
+prev: '/misc/'
 ---
 
 # Animations Controllers

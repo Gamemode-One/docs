@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/bp/entities/'
-next: '/docs/bp/scoreboards/'
+prev: '/bp/entities/'
+next: '/bp/scoreboards/'
 ---
 
 # Functions

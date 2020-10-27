@@ -19,7 +19,7 @@ module.exports = {
 		twitter: 'https://twitter.com/gmodeone',
 		github: 'https://github.com/Gamemode-One',
 		nav: {
-			links: [{ path: '/docs/', title: 'Docs' }],
+			links: [{ path: '/intro/', title: 'Docs' }],
 		},
 		sidebar: [
 			{
@@ -27,19 +27,19 @@ module.exports = {
 				sections: [
 					{
 						title: 'Getting Started',
-						items: ['/docs/', '/docs/tools/', '/docs/misc/'],
+						items: ['/intro/', '/tools/', '/misc/'],
 					},
 					{
 						title: 'General',
-						items: ['/docs/general/animations-and-controllers/'],
+						items: ['/general/animations-and-controllers/'],
 					},
 					{
 						title: 'BP',
 						items: [
-							'/docs/bp/entities/',
-							'/docs/bp/functions/',
-							'/docs/bp/scoreboards/',
-							'/docs/bp/tags/',
+							'/bp/entities/',
+							'/bp/functions/',
+							'/bp/scoreboards/',
+							'/bp/tags/',
 						],
 					},
 					{

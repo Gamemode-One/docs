@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/'
-next: '/docs/writing-content/'
+prev: '/'
+next: '/writing-content/'
 ---
 
 # Tools
